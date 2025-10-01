@@ -426,3 +426,15 @@ table {
     border: var(--bs-alert-border);
     border-radius: var(--bs-alert-border-radius);
 }
+
+.alert2-success {
+    --bs-alert-bg: #d1e7dd;
+    --bs-alert-color: #0f5132;
+    --bs-alert-border-color: #badbcc;
+}
+
+.alert2-warning {
+    --bs-alert-bg: #fff3cd;
+    --bs-alert-color: #664d03;
+    --bs-alert-border-color: #ffecb5;
+}
